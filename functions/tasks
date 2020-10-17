@@ -1,0 +1,22 @@
+TODOS: / 
+1.
+Initialise Firebase App and install necessary packages
+
+2.
+Getiing Updates From firebase
+
+3.
+Adding Updates By passing JSON
+
+4.
+Signup Route
+    -OTP Validation
+
+5.
+Data Validation in Signup From
+
+6.
+Login Route
+
+7.
+Authentication Middleware
